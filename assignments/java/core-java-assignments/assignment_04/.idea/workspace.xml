@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="561e1ad1-473e-4133-97c5-b97def8dcdd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AccountManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../labs/java/core-java-labs/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../labs/java/core-java-labs/src/com/homecredit/java/core/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment_04/com/company/AccountManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment_04/com/company/AccountManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment_04/com/company/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment_04/com/company/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AccountManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AccountManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labs/java/core-java-labs/src/com/homecredit/java/core/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../labs/java/core-java-labs/src/com/homecredit/java/core/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../labs/java/java.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,9 +24,9 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,12 +41,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="928" />
+          <entry key="java" value="1194" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="928" />
+          <entry key="JAVA" value="1194" />
         </counts>
       </usages-collector>
     </session>
@@ -54,46 +56,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/AccountManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#1049#1050#0" expanded="true" />
-                <element signature="e#1084#1085#0" expanded="true" />
-                <element signature="e#1117#1118#0" expanded="true" />
-                <element signature="e#1151#1152#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="260">
+              <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3">
+              <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/AccountService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="e#2597#2598#0" expanded="true" />
-                <element signature="e#2633#2634#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="143">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -113,9 +95,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/AccountService.java" />
-        <option value="$PROJECT_DIR$/src/com/company/AccountManager.java" />
         <option value="$PROJECT_DIR$/src/com/company/Account.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AccountManager.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AccountService.java" />
       </list>
     </option>
   </component>
@@ -166,7 +148,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1658923072666" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1658924236344" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -227,18 +209,18 @@
       <workItem from="1658853996865" duration="609000" />
       <workItem from="1658896003958" duration="95000" />
       <workItem from="1658913822921" duration="5895000" />
-      <workItem from="1658921439365" duration="1474000" />
+      <workItem from="1658921439365" duration="2658000" />
+      <workItem from="1658940461502" duration="842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8073000" />
+    <option name="totallyTimeSpent" value="10099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16909385" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17152104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -247,7 +229,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.979927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -305,51 +287,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/j.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/j.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/AccountService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1117#1118#0" expanded="true" />
-            <element signature="e#1151#1152#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="143">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/AccountManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="260">
+          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/AccountService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#2597#2598#0" expanded="true" />
-            <element signature="e#2633#2634#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="3">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
         </state>
       </provider>
     </entry>

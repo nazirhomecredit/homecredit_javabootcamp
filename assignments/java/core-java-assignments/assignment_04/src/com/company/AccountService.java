@@ -54,17 +54,17 @@ public class AccountService {
     }
 
     public void viewAll() {
-        System.out.println("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*");
+        System.out.println("*=============================================");
         for (Account account : accounts) {
             if (account != null)
                 System.out.println(account.getId() + " " + account.getName() + " "
                         + account.getBalance() + " " + account.getType() + " " + account.getActive());
         }
-        System.out.println("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*");
+        System.out.println("=============================================");
     }
 
     public boolean viewOne(int id) {
-        System.out.println("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*");
+        System.out.println("================================================");
         for (Account account : accounts) {
             if (account != null) {
                 if (account.getId() == id) {
@@ -75,7 +75,7 @@ public class AccountService {
             }
 
         }
-        System.out.println("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*");
+        System.out.println("================================================");
         return true;
     }
     public Account[] getAllAccounts ( int id)

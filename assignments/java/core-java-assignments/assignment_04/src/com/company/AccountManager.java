@@ -19,8 +19,6 @@ public class AccountManager {
             choice = s.nextInt();
             switch (choice) {
                 case 1:
-//                    System.out.print("Enter Id : ");
-//                    int no = s.nextInt();
                     System.out.print("Enter Name : ");
                     String na = s1.nextLine();
                     System.out.print("Enter Balance : ");
@@ -31,9 +29,9 @@ public class AccountManager {
                     boolean active = s.nextBoolean();
                     Account account = new Account(na, bal, type, active);
                     String status = acc.createAccount(account);
-                    System.out.println("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*");
+                    System.out.println("=========================================");
                     System.out.println(status);
-                    System.out.println("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*");
+                    System.out.println("=========================================");
                     break;
                 case 2:
                     acc.viewAll();
