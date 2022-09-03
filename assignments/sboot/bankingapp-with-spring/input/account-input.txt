@@ -1,0 +1,5 @@
+Sanskar,saving,34500,SBI
+Sahil,loan,34562,HDFC
+Saviour,current,45000,AXIS
+Rigzen,saving,135553,BOB
+Sudipta,saving,56778,PBN

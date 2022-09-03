@@ -1,0 +1,10 @@
+2022-09-03 22:42:29.190  INFO 2964 --- [main] c.h.b.BankingAppSpringBootApplication    : Starting BankingAppSpringBootApplication using Java 1.8.0_202 on INL20-IAAABFJC with PID 2964 (C:\Training\homecredit_javabootcamp\assignments\sboot\banking-app-spring-boot\target\classes started by SANSKAR.SHARMA in C:\Training\homecredit_javabootcamp\assignments\sboot\banking-app-spring-boot)
+2022-09-03 22:42:29.202 DEBUG 2964 --- [main] c.h.b.BankingAppSpringBootApplication    : Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-03 22:42:29.203  INFO 2964 --- [main] c.h.b.BankingAppSpringBootApplication    : The following 1 profile is active: "dev"
+2022-09-03 22:42:33.449  INFO 2964 --- [main] c.h.b.BankingAppSpringBootApplication    : Started BankingAppSpringBootApplication in 5.947 seconds (JVM running for 9.208)
+2022-09-03 22:42:33.457 DEBUG 2964 --- [main] c.h.b.BankingAppSpringBootApplication    : Welcome to Banking Management App!
+2022-09-03 23:57:57.258  INFO 15624 --- [main] c.h.b.BankingAppSpringBootApplication    : Starting BankingAppSpringBootApplication using Java 1.8.0_202 on INL20-IAAABFHB with PID 15624 (C:\Users\mdnazir.husain\Downloads\banking-app-spring-boot\banking-app-spring-boot\target\classes started by MDNAZIR.HUSAIN in C:\Users\mdnazir.husain\Downloads\banking-app-spring-boot\banking-app-spring-boot)
+2022-09-03 23:57:57.262 DEBUG 15624 --- [main] c.h.b.BankingAppSpringBootApplication    : Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-03 23:57:57.263  INFO 15624 --- [main] c.h.b.BankingAppSpringBootApplication    : The following 1 profile is active: "dev"
+2022-09-03 23:57:59.158  INFO 15624 --- [main] c.h.b.BankingAppSpringBootApplication    : Started BankingAppSpringBootApplication in 2.647 seconds (JVM running for 4.139)
+2022-09-03 23:57:59.161 DEBUG 15624 --- [main] c.h.b.BankingAppSpringBootApplication    : Welcome to Banking Management App!
