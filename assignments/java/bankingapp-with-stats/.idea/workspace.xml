@@ -1,56 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a337bde-c45c-478f-9434-5cdf24dc8abe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Banking-App/src/com/homecredit/bankingapp/util/HelpingFun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/Account.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/assignment_04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/src/com/company/AccountService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/src/com/company/accountmgmt/AccountMgmtMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/src/com/company/accountmgmt/model/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/account-mgmt-with-collection.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/account-mgmt-with-collection.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/GetAllAccount.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment CRUD.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/assignment_01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/out/production/assignment_01/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/assignment_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/out/production/assignment_02/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/assignment_03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/out/production/assignment_03/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/createAccount.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/deletAccount.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/out/production/assignment_01/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/updateAccount.JPG" beforeDir="false" />
+    <list default="true" id="1a3b27cd-7212-405f-b400-21fc1c130144" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-arrays/out/production/bankingapp-with-arrays/com/assignments/java/core/AccountSystem/AccountManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-arrays/out/production/bankingapp-with-arrays/com/assignments/java/core/AccountSystem/AccountManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-arrays/out/production/bankingapp-with-arrays/com/assignments/java/core/AccountSystem/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-arrays/out/production/bankingapp-with-arrays/com/assignments/java/core/AccountSystem/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-arrays/out/production/bankingapp-with-arrays/com/assignments/java/core/~$Output.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-arrays/src/com/assignments/java/core/AccountSystem/AccountManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-arrays/src/com/assignments/java/core/AccountSystem/AccountManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-arrays/src/com/assignments/java/core/AccountSystem/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-arrays/src/com/assignments/java/core/AccountSystem/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-arrays/src/com/assignments/java/core/~$Output.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/out/production/bankingapp-with-collections/com/homecredit/bankingapp/BankingAppMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-collections/out/production/bankingapp-with-collections/com/homecredit/bankingapp/BankingAppMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/out/production/bankingapp-with-collections/com/homecredit/bankingapp/dao/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/out/production/bankingapp-with-collections/com/homecredit/bankingapp/dao/AccountDaoJdbcImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/out/production/bankingapp-with-collections/com/homecredit/bankingapp/service/AccountServiceArrListImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/BankingAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/BankingAppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/dao/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/dao/AccountDaoJdbcImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/service/AccountServiceArrListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/service/AccountServiceArrListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/service/AccountServiceHashMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/service/AccountServiceHashMapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/service/AccountServiceTreeMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/service/AccountServiceTreeMapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/service/AccountServiceTreeSetImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-collections/src/com/homecredit/bankingapp/service/AccountServiceTreeSetImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-impexp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-impexp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-impexp/out/production/bankingapp-with-impexp/com/homecredit/bankingapp/service/account-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-impexp/out/production/bankingapp-with-impexp/com/homecredit/bankingapp/service/account-output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-java8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-java8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-jdbc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-threading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/src/com/homecredit/bankingapp/service/account-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-threading/src/com/homecredit/bankingapp/service/account-output.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,46 +40,105 @@
     <session id="-2034810758">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="21" />
+          <entry key="java" value="1780" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="1780" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/BankingAppMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="2431">
+              <caret line="148" column="147" selection-start-line="148" selection-start-column="147" selection-end-line="148" selection-end-column="147" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/model/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/exception/NoAccountFoundException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/service/AccountService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/service/AccountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3247">
+              <caret line="191" selection-start-line="191" selection-end-line="191" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -110,7 +146,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/homecredit/bankingapp/Main.java" />
+        <option value="$PROJECT_DIR$/src/BankingAppMain.java" />
+        <option value="$PROJECT_DIR$/src/com/homecredit/bankingapp/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/src/com/homecredit/bankingapp/BankingAppMain.java" />
+        <option value="$PROJECT_DIR$/src/com/homecredit/bankingapp/service/AccountServiceArrListImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/homecredit/bankingapp/service/AccountServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -121,21 +161,18 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
-    <option name="y" value="54" />
-    <option name="width" value="1326" />
-    <option name="height" value="1062" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,16 +191,44 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="bankingapp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="bankingapp-with-stats" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankingapp-with-stats" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bankingapp" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankingapp-with-stats" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankingapp-with-stats" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bankingapp" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankingapp-with-stats" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankingapp-with-stats" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bankingapp" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1661152670628" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1660498376782" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bankingapp-with-jdbc" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,19 +243,22 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.homecredit.bankingapp.Main" />
+    <configuration name="BankingAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homecredit.bankingapp.BankingAppMain" />
       <module name="bankingapp-with-stats" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homecredit.bankingapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BankingAppMain" />
       </list>
     </recent_temporary>
   </component>
@@ -199,34 +267,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5a337bde-c45c-478f-9434-5cdf24dc8abe" name="Default Changelist" comment="" />
-      <created>1661151438578</created>
+      <changelist id="1a3b27cd-7212-405f-b400-21fc1c130144" name="Default Changelist" comment="" />
+      <created>1659680662532</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1661151438578</updated>
-      <workItem from="1661151442712" duration="517000" />
-      <workItem from="1661152206051" duration="461000" />
+      <updated>1659680662532</updated>
+      <workItem from="1659680665599" duration="56000" />
+      <workItem from="1660104684500" duration="9011000" />
+      <workItem from="1660294890295" duration="8741000" />
+      <workItem from="1660543082646" duration="640000" />
+      <workItem from="1660563691756" duration="19000" />
+      <workItem from="1660633184713" duration="305000" />
+      <workItem from="1662277394466" duration="1445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="978000" />
+    <option name="totallyTimeSpent" value="20217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27125505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13523132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -234,6 +306,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -252,15 +325,140 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bankingapp-with-stats.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/BankingAppMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="2431">
+          <caret line="148" column="147" selection-start-line="148" selection-start-column="147" selection-end-line="148" selection-end-column="147" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/model/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/exception/NoAccountFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/service/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bankingapp-with-stats</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -42,52 +42,52 @@ public class Main {
 
                 switch (input) {
                     case 1:
-//            try {
-//                Scanner s = new Scanner(System.in);
-//                Scanner s1 = new Scanner(System.in);
-//
-//                System.out.print("Enter name : ");
-//                String name = s1.nextLine();
-//                System.out.print("Enter Initial balance : ");
-//                double balance = s.nextDouble();
-//                System.out.print("Enter Account Type : SAVING : CURRENT : LOAN  :");
-//                String accountType = s1.nextLine();
-//                System.out.print("Enter Branch : ");
-//                String branch = s1.nextLine();
-//
-//                HelpingFun hf = new HelpingFun();
-//                int id = hf.getRandomNumber(100, 999);
-//                while (!set.isEmpty() && set.contains(id)) {
-//                    id = hf.getRandomNumber(100, 999);
-//                }
-//                set.add(id);
-//
-//
-//                Account account = new Account(id, name, accountType, balance, branch);
-//
-//
-//                boolean isCreated = accountServices.create(account);
-//
-//
-//                if (isCreated) {
-//                    System.out.println("-------------------------------------------------------------------------------");
-//                    System.out.println("Account Creation Done SuccessFully With Id : " + id);
-//                    System.out.println("-------------------------------------------------------------------------------");
-//                }
+            try {
+                Scanner s = new Scanner(System.in);
+                Scanner s1 = new Scanner(System.in);
 
-//            }
-//
-//        catch (InputMismatchException ee){
-//            System.out.println("-------------------------------------------------------------------------------");
-//            System.out.println("Not Valid input");
-//            System.out.println("-------------------------------------------------------------------------------");
-//        }
-//        catch (Exception e) {
-//            System.out.println("Please retry" + e.getMessage());
-//            e.printStackTrace();
+                System.out.print("Enter name : ");
+                String name = s1.nextLine();
+                System.out.print("Enter Initial balance : ");
+                double balance = s.nextDouble();
+                System.out.print("Enter Account Type : SAVING : CURRENT : LOAN  :");
+                String accountType = s1.nextLine();
+                System.out.print("Enter Branch : ");
+                String branch = s1.nextLine();
 
-//        }
-                        ((AccountServiceArrListImpl) accountServices).defaultAcc();
+                HelpingFun hf = new HelpingFun();
+                int id = hf.getRandomNumber(100, 999);
+                while (!set.isEmpty() && set.contains(id)) {
+                    id = hf.getRandomNumber(100, 999);
+                }
+                set.add(id);
+
+
+                Account account = new Account(id, name, accountType, balance, branch);
+
+
+                boolean isCreated = accountServices.create(account);
+
+
+                if (isCreated) {
+                    System.out.println("-------------------------------------------------------------------------------");
+                    System.out.println("Account Creation Done SuccessFully With Id : " + id);
+                    System.out.println("-------------------------------------------------------------------------------");
+                }
+
+            }
+
+        catch (InputMismatchException ee){
+            System.out.println("-------------------------------------------------------------------------------");
+            System.out.println("Not Valid input");
+            System.out.println("-------------------------------------------------------------------------------");
+        }
+        catch (Exception e) {
+            System.out.println("Please retry" + e.getMessage());
+            e.printStackTrace();
+
+        }
+
 
                     break;
                 case 2:

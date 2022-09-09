@@ -1,54 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="990410d7-2d11-4ade-81fb-39908cf2e087" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/Account.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/assignment_04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/src/com/company/AccountService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/src/com/company/accountmgmt/AccountMgmtMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-arrays/src/com/company/accountmgmt/model/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/account-mgmt-with-collection.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../account-mgmt-with-collection/account-mgmt-with-collection.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../core-java-assignments/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../core-java-assignments/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../core-java-assignments/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/GetAllAccount.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment CRUD.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/assignment_01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/out/production/assignment_01/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_01/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/assignment_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/out/production/assignment_02/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_02/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/assignment_03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/out/production/assignment_03/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/assignment_03/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/createAccount.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/deletAccount.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/out/production/assignment_01/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core-java-assignments/updateAccount.JPG" beforeDir="false" />
+    <list default="true" id="3d17a214-3cfb-4e88-bdf3-f71a9d0c193f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv-java-assignments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/homecredit/bankingapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-impexp/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-impexp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-impexp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-impexp/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-impexp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-impexp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-impexp/bankingapp-with-impexp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-impexp/bankingapp-with-impexp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-impexp/src/com/homecredit/bankingapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-stats/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-stats/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-stats/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-stats/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-stats/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-stats/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-stats/bankingapp-with-stats.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-stats/bankingapp-with-stats.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-stats/out/production/bankingapp-with-stats/com/homecredit/bankingapp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-stats/src/com/homecredit/bankingapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-threading/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-threading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/bankingapp-with-threading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bankingapp-with-threading/bankingapp-with-threading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/out/production/bankingapp-with-threading/com/homecredit/bankingapp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankingapp-with-threading/src/com/homecredit/bankingapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/core-java-assignments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-java-assignments/src/com/homecredit/bankingapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/input/account-input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/output/account-output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/src/main/java/com/homecredit/bankingapp/BankingAppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/src/main/java/com/homecredit/bankingapp/config/AccountConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/src/main/java/com/homecredit/bankingapp/dao/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/src/main/java/com/homecredit/bankingapp/dao/AccountDaoJdbcImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/src/main/java/com/homecredit/bankingapp/model/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/src/main/java/com/homecredit/bankingapp/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/src/main/java/com/homecredit/bankingapp/service/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/BankingAppMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/BankingAppMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/BankingAppMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/config/AccountConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/dao/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/dao/AccountDaoJdbcImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/model/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/service/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/service/AccountServiceImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sboot/bankingapp-with-spring/target/classes/com/homecredit/bankingapp/service/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/core-java-labs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/out/production/core-java-labs/com/homecredit/java/core/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/out/production/core-java-labs/com/homecredit/java/core/cmdLineArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/src/com/homecredit/java/core/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labs/java/core-java-labs/src/com/homecredit/java/core/cmdLineArgs.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,27 +79,12 @@
     <session id="1384612670">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -104,37 +107,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="adv-java-assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adv-java-assignments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adv-java-assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adv-java-assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adv-java-assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adv-java-assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bankingapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1661158368641" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bankingapp-with-collection" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,47 +131,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.homecredit.bankingapp.Main" />
-      <module name="adv-java-assignments" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="990410d7-2d11-4ade-81fb-39908cf2e087" name="Default Changelist" comment="" />
-      <created>1661158337895</created>
+      <changelist id="3d17a214-3cfb-4e88-bdf3-f71a9d0c193f" name="Default Changelist" comment="" />
+      <created>1662639713329</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1661158337895</updated>
-      <workItem from="1661158342276" duration="26000" />
-      <workItem from="1661234884240" duration="6000" />
-      <workItem from="1661234931647" duration="78000" />
+      <updated>1662639713329</updated>
+      <workItem from="1662639714635" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110000" />
+    <option name="totallyTimeSpent" value="41000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -196,19 +169,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,13 +186,20 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/homecredit/bankingapp/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
